@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-📷 **[Instagram](https://instagram.com/alon_boy.in)** | ✉️ **[Email](mailto:sn19nishad@gmail.com)** | 💻 **[Report Bug](https://github.com/S-Nishad/ai-shayri-instabot/issues)**
+📷 **[Instagram](https://instagram.com/alon_boy.in)** | ✉️ **[Email](mailto:sn19nishad@gmail.com)** | 💻 **[Report Bug](mailto:sn19nishad@gmail.com)**
 
 ![App Screenshot](fonts/image1.png)
 
@@ -35,3 +35,4 @@ pip install -r requirements.txt
 
 # Launch the app
 python main.py
+
